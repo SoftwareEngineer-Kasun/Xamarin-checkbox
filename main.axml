@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android = "http://schemas.android.com/apk/res/android" 
+   android:orientation = "vertical" 
+   android:background = "#d3d3d3" 
+   android:layout_width = "fill_parent" 
+   android:layout_height = "fill_parent"> 
+   <CheckBox 
+      android:text = "CheckBox" 
+      android:padding = "25dp" 
+      android:layout_width = "300dp" 
+      android:layout_height = "wrap_content" 
+      android:id = "@+id/checkBox1" 
+      android:textColor = "@android:color/black" 
+      android:background = "@android:color/holo_blue_dark" /> 
+</LinearLayout>
